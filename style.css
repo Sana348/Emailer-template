@@ -1,0 +1,92 @@
+body,
+html {
+  width: 100%;
+}
+body {
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  mso-margin-top-alt: 0;
+  mso-margin-bottom-alt: 0;
+  mso-padding-alt: 0;
+}
+h1,
+h2,
+h3,
+h4,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+span.preheader {
+  display: none;
+  font-size: 1px;
+}
+table {
+  font-size: 14px;
+  border: 0;
+}
+@media only screen and (max-width: 640px) {
+  .container590,
+  .divider img,
+  .main-image img {
+    width: 440px !important;
+  }
+  .main-header {
+    font-size: 20px !important;
+  }
+  .main-section-header {
+    font-size: 28px !important;
+  }
+  .show {
+    display: block !important;
+  }
+  .hide {
+    display: none !important;
+  }
+  .align-center {
+    text-align: center !important;
+  }
+  .no-bg {
+    background: 0 0 !important;
+  }
+  .main-image img {
+    height: auto !important;
+  }
+  .container580 {
+    width: 400px !important;
+  }
+  .main-button {
+    width: 220px !important;
+  }
+  .section-img img {
+    width: 320px !important;
+    height: auto !important;
+  }
+  .team-img img {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+@media only screen and (max-width: 479px) {
+  .container590,
+  .divider img,
+  .section-img img {
+    width: 280px !important;
+  }
+  .main-header {
+    font-size: 18px !important;
+  }
+  .main-section-header {
+    font-size: 26px !important;
+  }
+  .container580 {
+    width: 260px !important;
+  }
+  .section-img img {
+    height: auto !important;
+  }
+}
